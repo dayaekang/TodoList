@@ -2,7 +2,9 @@
 
 
 ## Screenshots
-![react1](https://user-images.githubusercontent.com/93265694/232278324-3c29719a-c6a7-469f-96c7-86a167523ef7.PNG)
+![react1]<img width="200" src="https://user-images.githubusercontent.com/93265694/232278324-3c29719a-c6a7-469f-96c7-86a167523ef7.PNG">
+![react2](https://user-images.githubusercontent.com/93265694/232278326-9f3ad378-7de7-4ec3-87c5-ad01a4544a68.PNG)
+![react3](https://user-images.githubusercontent.com/93265694/232278327-4b835fa2-0dab-4ad6-a2e7-d0adff178a69.PNG)
 
 ## 프로젝트 실행 방법 
 
