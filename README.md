@@ -27,8 +27,8 @@
 <br>
 
 ## 주 작업 내용, 고민
-#### Style : postcss의 모듈객체를 활용해봄으로써 className 짓기나 구조를 덜 고민할 수 있어서 간편한 장점.
+-Style : postcss의 모듈객체를 활용해봄으로써 className 짓기나 구조를 덜 고민할 수 있어서 간편한 장점.
 
-#### darkmode : context api를 사용해 내부적으로는 useConext를 할 수 있도록 hook을 만들어 간편하게 사용
+-darkmode : context api를 사용해 내부적으로는 useConext를 할 수 있도록 hook을 만들어 간편하게 사용
 
-#### localstorage : usestate를 사용하며 콜백을 넣어줘 컴포넌트가 mount 될 때만 호출되고 상태가 변경될 때는 호출되지 않도록 구현
+-localstorage : usestate를 사용하며 콜백을 넣어줘 컴포넌트가 mount 될 때만 호출되고 상태가 변경될 때는 호출되지 않도록 구현
