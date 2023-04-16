@@ -1,7 +1,8 @@
 # React mini Todo-List 
 
 
-## 데모
+## Screenshots
+![react1](https://user-images.githubusercontent.com/93265694/232278324-3c29719a-c6a7-469f-96c7-86a167523ef7.PNG)
 
 ## 프로젝트 실행 방법 
 
