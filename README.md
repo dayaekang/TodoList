@@ -3,9 +3,9 @@
 
 ## Screenshots
 <div>
-  <img  width="20%" height="30%" src="https://user-images.githubusercontent.com/93265694/232279078-821e927c-f1b5-40fd-af14-16280d8c1a3b.PNG">
-  <img width="20%" height="30%" src="https://user-images.githubusercontent.com/93265694/232279080-077428ff-5aa3-449a-85a0-f9b7938df8fc.PNG">
-  <img  width="20%" height="30%" src="https://user-images.githubusercontent.com/93265694/232279083-300c3d7d-7507-47f7-951e-c4a8042d00f9.PNG">
+  <img  width="30%" height="25%" src="https://user-images.githubusercontent.com/93265694/232279078-821e927c-f1b5-40fd-af14-16280d8c1a3b.PNG">
+  <img width="30%" height="30%" src="https://user-images.githubusercontent.com/93265694/232279080-077428ff-5aa3-449a-85a0-f9b7938df8fc.PNG">
+  <img  width="30%" height="30%" src="https://user-images.githubusercontent.com/93265694/232279083-300c3d7d-7507-47f7-951e-c4a8042d00f9.PNG">
 </div>
 ## 프로젝트 실행 방법 
 
